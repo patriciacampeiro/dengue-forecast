@@ -2,7 +2,7 @@
 
 Projeto de Iniciação Científica (UNILINS) que usa **Ciência de Dados e Machine Learning** para prever o número semanal de casos de dengue a partir de dados epidemiológicos do **DATASUS** e dados meteorológicos do **INMET**.
 
-> **Município analisado:** [preencher] · **Período:** 2014 a 2024 · **Granularidade:** semana epidemiológica
+> **Município analisado:** Lins - SP · **Período:** 2014 a 2024 · **Granularidade:** semana epidemiológica
 
 ## Objetivo
 
@@ -114,4 +114,4 @@ Os dois arquivos usam separador `;` e codificação `latin1`, no formato em que 
 
 ## Autora
 
-**Patricia** · Engenharia de Software, UNILINS · [LinkedIn](#) · [GitHub](#)
+**Patricia** · Engenharia de Software, UNILINS 
