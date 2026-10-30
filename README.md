@@ -105,12 +105,6 @@ Saídas geradas:
 
 Os dois arquivos usam separador `;` e codificação `latin1`, no formato em que são exportados pelos portais.
 
-## Limitações e próximos passos
-
-- Superar o baseline ingênuo: testar previsão com horizonte maior (2 a 4 semanas à frente), onde o clima tende a pesar mais que o histórico recente.
-- Comparar com outros modelos (Gradient Boosting, XGBoost, SARIMAX) usando validação cruzada temporal (`TimeSeriesSplit`).
-- Alinhar semana ISO (clima) e semana epidemiológica (SINAN), que podem diferir em alguns anos.
-- Prever a taxa de incidência (casos por 100 mil habitantes) para comparar municípios.
 
 ## Autora
 
