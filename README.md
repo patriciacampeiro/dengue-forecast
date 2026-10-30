@@ -71,8 +71,8 @@ Outros gráficos em [`reports/figures/`](reports/figures/): casos por ano, mapa 
 Requer Python 3.10 ou superior.
 
 ```bash
-git clone https://github.com/<seu-usuario>/<nome-do-repositorio>.git
-cd <nome-do-repositorio>
+git clone https://github.com/patriciacampeiro/dengue-forecast.git
+cd dengue-forecast
 
 python -m venv .venv
 source .venv/bin/activate        # Windows: .venv\Scripts\activate
