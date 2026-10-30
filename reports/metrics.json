@@ -1,0 +1,13 @@
+{
+  "test_start_year": 2022,
+  "train_weeks": 407,
+  "test_weeks": 146,
+  "random_forest": {
+    "mae": 12.56054794520548,
+    "rmse": 26.2401611959424
+  },
+  "baseline_last_week": {
+    "mae": 12.335616438356164,
+    "rmse": 23.924109465111343
+  }
+}
